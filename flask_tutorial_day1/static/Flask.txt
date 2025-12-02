@@ -1,0 +1,6 @@
+Flask -- a module/ Framework of  python which help us to create a web aap 
+-----------
+Flask automatically serves files placed inside the static folder.
+Any file located in static/ can be accessed directly through the browser using the /static/ URL path.
+
+ we can directly access static file --- like http://127.0.0.1:8000/static/Flask.txt
