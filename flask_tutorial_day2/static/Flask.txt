@@ -1,0 +1,18 @@
+DAY1: WHAT IS FLASK?
+
+Flask -- a module/ Framework of  python which help us to create a web aap 
+-----------
+Flask automatically serves files placed inside the static folder.
+Any file located in static/ can be accessed directly through the browser using the /static/ URL path.
+
+ we can directly access static file --- like http://127.0.0.1:8000/static/Flask.txt
+
+
+
+
+
+DAY2: HOW TO initialize DATABASE?
+
+To use database we use sqllite because it is easy to use 
+Install it -- pip install flask-sqlalchemy
+sqlalchemy is orm mapper means it is facilated to changes into the  database using python 
